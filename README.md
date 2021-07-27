@@ -12,3 +12,6 @@ Data: Tableau 20 Advanced Training: Master Tableau in Data Science
 
 The data are clean and ready for analysis. 
 
+![Presentation:](https://github.com/HockChong/The-StartUp-Quadrant/blob/main/Capture.PNG)
+
+Tableau Public: https://tabsoft.co/3rOYZgZ
