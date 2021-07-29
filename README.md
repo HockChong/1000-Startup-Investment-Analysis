@@ -1,7 +1,7 @@
 # The-StartUp-Quadrant
 
 
-📚 Task: Assist the Boards in identifying which startup represents the best investment opportunity from 1000 startup.
+📚 Task: Assist the Boards in identifying which startup represents the best investment opportunity from 1000 startups.
 
 📚 Selection Criterion:
 ✔️High Revenue (2015)
