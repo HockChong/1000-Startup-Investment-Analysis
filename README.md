@@ -1,4 +1,4 @@
-# The-StartUp-Quadrant
+# 1000 Startup Investment Analysis
 
 
 📚 Task: Assist the Boards in identifying which startup represents the best investment opportunity from 1000 startups.
